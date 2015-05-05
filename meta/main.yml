@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  author: Björn Dieding
+  author: Bjoern Dieding
   description: NTP installation and configuration for RHEL/CentOS.
   company: "xrow GmbH"
   license: "GPL"
