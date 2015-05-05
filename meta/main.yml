@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Björn Dieding
+  description: NTP installation and configuration for RHEL/CentOS.
+  company: "xrow GmbH"
+  license: "GPL"
+  min_ansible_version: 1.4
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  categories:
+    - system

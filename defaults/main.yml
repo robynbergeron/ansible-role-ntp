@@ -1,0 +1,3 @@
+---
+ntp_timezone: UTC
+ntpserver: 0.pool.ntp.org
